@@ -1,5 +1,5 @@
 # _Brief life of **Charles Babbage**_
-## How to use project
+## How to open project
 
 ### 1. Download zip or clone the repo
 ### 2. Open index.html in your browser
